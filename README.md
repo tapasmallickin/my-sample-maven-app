@@ -1,1 +1,2 @@
 #My Sample maven app
+THIS IS JUST FOR TEST PURPOSE
